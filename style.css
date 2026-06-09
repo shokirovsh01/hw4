@@ -2,3 +2,29 @@
     margin: 0;
     font-family: sans-serif;
 }
+.im1{
+width: 100%;
+}
+.start{
+    width:100%;
+    background: linear-gradient(123.49deg, #FF4029 0.57%, #F02228 104.89%);
+
+}
+.df{
+    color: white;
+    display: flex;
+}
+.but1{
+    padding: 15px;
+    border: 4px solid white;
+    background-color: #FF4029;
+    color: white;
+border-radius: 32px;
+padding-left: 35px;
+padding-right: 35px;
+}
+.dftx{
+    margin-left: 50px;
+    margin-top: 130px;
+    font-size: 20px;
+}
